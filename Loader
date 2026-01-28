@@ -2,8 +2,8 @@ local Players = cloneref(game:GetService("Players"))
 local LocalPlayer = Players.LocalPlayer
 
 local Place_ID_With_Matching_Loadstring = {
-    [13643807539] = "https://raw.githubusercontent.com/DarkMcSlark/ModuleGames/refs/heads/main/ExemptTeleportSB.lua?token=GHSAT0AAAAAADTQUBXDHU6475Z5GKCSLRDQ2LZREMA";
-    [14413475235] = "https://raw.githubusercontent.com/DarkMcSlark/ModuleGames/refs/heads/main/ExemptTeleportSB.lua?token=GHSAT0AAAAAADTQUBXDHU6475Z5GKCSLRDQ2LZREMA";
+    [13643807539] = "https://raw.githubusercontent.com/DarkMcSlark/ModuleGames/refs/heads/main/ExemptTeleportSB.lua?token=GHSAT0AAAAAADTQUBXDGU3K6YUHX3QG3ZZC2LZRXMQ";
+    [14413475235] = "https://raw.githubusercontent.com/DarkMcSlark/ModuleGames/refs/heads/main/ExemptTeleportSB.lua?token=GHSAT0AAAAAADTQUBXDGU3K6YUHX3QG3ZZC2LZRXMQ";
 }
 
 if not Place_ID_With_Matching_Loadstring[game.PlaceId] then
